@@ -4,3 +4,12 @@
 <p align='center'><a href="https://www.instagram.com/Dahlamales_01"><img height="200"
 src="https://raw.githubusercontent.com/Mujipro78/Mujipro78/main/ara.jpg"></a>&nbsp;&nbsp;</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
+</p>
+
+
