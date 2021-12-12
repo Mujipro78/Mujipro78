@@ -2,7 +2,7 @@
 
 
 <p align='center'><a href="https://www.instagram.com/Dahlamales_01"><img height="200"
-src="https://raw.githubusercontent.com/Mujipro78/Mujipro78/main/ara.jpg"></a>&nbsp;&nbsp;</p>
+src="https://github.com/settings/profile"></a>&nbsp;&nbsp;</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
