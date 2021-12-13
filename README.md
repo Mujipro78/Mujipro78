@@ -2,7 +2,9 @@
 
 
 <p align='center'><a href="https://www.instagram.com/Dahlamales_01"><img height="200"
+<p align="center">
 <img src="https://ibb.co/0YPzGnK" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
